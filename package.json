@@ -74,6 +74,7 @@
     "gulp-uglify": "~3.0.0",
     "helmet": "^3.8.2",
     "imagemin-pngquant": "~5.1.0",
+    "iota.lib.js": "^0.4.7",
     "jasmine-core": "~2.7.0",
     "lodash": "~4.17.4",
     "lusca": "~1.5.1",
